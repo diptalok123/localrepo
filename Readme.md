@@ -1,2 +1,1 @@
-<P>this is my new file 
-</P>
+<P>this is my new file </P>
